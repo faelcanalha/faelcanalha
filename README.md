@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**faelcanalha/faelcanalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  <b>nothing here</b><br>
+  <a href="https://discord.gg/7nw6zh9dQV">Discord</a> |
+  <a href="https://www.youtube.com/@faelcanalha">YouTube</a>
 
-Here are some ideas to get you started:
+----
+<img src="https://cdn.discordapp.com/attachments/929899386698334208/1138172161245315102/Sem_Titulo-2.png" align="left" alt="white or black" width="200" height="auto">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```py
+ 
+C# / C++ / JS
+React.JS / Next.JS / Express.JS
+Tailwind.css / Bootstrap / Styled-Components
+MongoDB / Firebase
+
+ImGui Designer / Web Designer / Cheat Developer
+
+```
