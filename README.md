@@ -15,5 +15,4 @@ Tailwind.css / Bootstrap / Styled-Components
 MongoDB / Firebase
 ImGui Designer / Web Designer / Cheat Developer
  
- 
 ```
