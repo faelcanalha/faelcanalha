@@ -13,6 +13,6 @@ C# / C++ / JS
 React.JS / Express.JS / Next.JS
 Tailwind.css / Bootstrap
 MongoDB / Firebase
-ImGui Designer / Web Designer / Cheat Developer
+ImGui Designer / FullStack Developer / Cheat Maker
  
 ```
