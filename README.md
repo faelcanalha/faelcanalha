@@ -5,8 +5,6 @@
   <a href="https://www.youtube.com/@faelcanalha">YouTube</a>
 
 ----
-<img src="https://cdn.discordapp.com/attachments/929899386698334208/1138172161245315102/Sem_Titulo-2.png" align="left" alt="white or black" width="200" height="auto">
-
 ```py
  
 CSHARP / CPP / JS
