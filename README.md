@@ -11,7 +11,7 @@
  
 CSHARP / CPP / JS
 React.JS / Express.JS / Next.JS
-Tailwind.css / Bootstrap
+Tailwind.CSS / Bootstrap
 MongoDB / Firebase
 ImGui Designer / FullStack Developer / Cheat Developer
  
