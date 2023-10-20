@@ -9,7 +9,7 @@
 
 ```py
  
-C# / C++ / JS
+CSHARP / CPP / JS
 React.JS / Express.JS / Next.JS
 Tailwind.css / Bootstrap
 MongoDB / Firebase
