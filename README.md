@@ -1,16 +1,21 @@
 
 <p align='center'>
   <b>nothing here</b><br>
-  <a href="https://discord.gg/7nw6zh9dQV">Discord</a> |
-  <a href="https://www.youtube.com/@faelcanalha">YouTube</a>
+  <a href="https://www.youtube.com/@faelcanalha">YouTube #1</a>
+  <a href="https://www.youtube.com/@justfael">YouTube #2</a>
 
 ----
+
+# Knowledge
+```asm
+C# / CPP / JavaScript / TypeScript
+
+React / Express / Next.js
+Tailwind CSS / Bootstrap
+MongoDB / Prisma ORM
+```
+
+# Whatami
 ```py
- 
-CSHARP / CPP / JS
-React.JS / Express.JS / Next.JS
-Tailwind.CSS / Bootstrap
-MongoDB / Firebase
-ImGui Designer / Cheat Developer
- 
+Full-Stack Developer / ImGui Designer / Cheat Developer / Black Hat
 ```
