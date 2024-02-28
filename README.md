@@ -11,7 +11,7 @@
 C# / CPP / JavaScript / TypeScript
 
 React / Express / Next.js
-Tailwind CSS / Bootstrap
+Tailwind.CSS / Bootstrap
 MongoDB / Prisma ORM
 ```
 
